@@ -1,6 +1,6 @@
 Name:		texlive-globalvals
 Version:	49962
-Release:	1
+Release:	2
 Summary:	Declare global variables
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/globalvals
